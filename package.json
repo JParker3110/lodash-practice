@@ -1,0 +1,23 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "an app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JParker3110/lodash-practice.git"
+  },
+  "author": "jan cohort",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JParker3110/lodash-practice/issues"
+  },
+  "homepage": "https://github.com/JParker3110/lodash-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
